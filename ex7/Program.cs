@@ -18,8 +18,8 @@ int i=0;
 } while (nota >= 0);
 
     double media =nota_anterior/i;
-    Console.WriteLine(""+nota_anterior );
-    Console.WriteLine(""+media);
+    Console.WriteLine($"Foram aprovados {i} alunos" );
+    Console.WriteLine("A media das notas foi "+media);
 }
 
 
