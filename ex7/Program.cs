@@ -10,12 +10,13 @@ int i=0;
     Console.WriteLine("Me fale a nota: ");
     nota = double.Parse(Console.ReadLine());
     
-    if (nota >= 0) {
+    if (nota >= 6) {
         nota_anterior = nota + nota_anterior;
         ++i;
     }
 
 } while (nota >= 0);
+
     double media =nota_anterior/i;
     Console.WriteLine(""+nota_anterior );
     Console.WriteLine(""+media);
