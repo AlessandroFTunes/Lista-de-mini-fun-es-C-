@@ -1,0 +1,15 @@
+/workspaces/Lista-de-mini-fun-es-C-/ex7/obj/Debug/net8.0/ex7.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Lista-de-mini-fun-es-C-/ex7/obj/Debug/net8.0/ex7.AssemblyInfoInputs.cache
+/workspaces/Lista-de-mini-fun-es-C-/ex7/obj/Debug/net8.0/ex7.AssemblyInfo.cs
+/workspaces/Lista-de-mini-fun-es-C-/ex7/obj/Debug/net8.0/ex7.csproj.CoreCompileInputs.cache
+/workspaces/Lista-de-mini-fun-es-C-/ex7/obj/Debug/net8.0/ex7.sourcelink.json
+/workspaces/Lista-de-mini-fun-es-C-/ex7/bin/Debug/net8.0/ex7
+/workspaces/Lista-de-mini-fun-es-C-/ex7/bin/Debug/net8.0/ex7.deps.json
+/workspaces/Lista-de-mini-fun-es-C-/ex7/bin/Debug/net8.0/ex7.runtimeconfig.json
+/workspaces/Lista-de-mini-fun-es-C-/ex7/bin/Debug/net8.0/ex7.dll
+/workspaces/Lista-de-mini-fun-es-C-/ex7/bin/Debug/net8.0/ex7.pdb
+/workspaces/Lista-de-mini-fun-es-C-/ex7/obj/Debug/net8.0/ex7.dll
+/workspaces/Lista-de-mini-fun-es-C-/ex7/obj/Debug/net8.0/refint/ex7.dll
+/workspaces/Lista-de-mini-fun-es-C-/ex7/obj/Debug/net8.0/ex7.pdb
+/workspaces/Lista-de-mini-fun-es-C-/ex7/obj/Debug/net8.0/ex7.genruntimeconfig.cache
+/workspaces/Lista-de-mini-fun-es-C-/ex7/obj/Debug/net8.0/ref/ex7.dll

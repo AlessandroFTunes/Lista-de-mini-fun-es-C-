@@ -1,10 +1,9 @@
-﻿ public class Branco{
- public static void Main () {
-    double vagneris = Negao();
-    Console.WriteLine("" + vagneris);
+﻿ public class ex4MDC{
+ public static void Rodar () {
+    TestandoNumero ();
  }
 
- public static double Negao (){
+ public static double TestandoNumero (){
 double maior_numero = 434;
 double menor_numero =152;
 
@@ -23,7 +22,7 @@ while (resto !=0)
 
             
         }
-        return menor_numero;
 
+    Console.WriteLine("" + menor_numero);
  }
  }
